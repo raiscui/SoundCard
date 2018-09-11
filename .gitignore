@@ -5,3 +5,7 @@ temp/
 build/
 dist/
 SoundCard.egg-info/
+
+\.vscode/
+
+\.history/
